@@ -19,7 +19,7 @@ The **Resonant Plasma Comet Model (RPCM)** reinterprets interstellar comets such
  ├── README.md               # Overview (this file)
  ├── rpcm_model_summary.md   # Full conceptual model document
  ├── data/
- │    ├── RPCM_v9_Spectra.csv
+ │    ├── RPCM_v9_Validated.csv
  │    ├── RPCM_v9_DeviationReport.csv
  │    └── 3I_ATLAS_Polarization.fits
  ├── notebooks/
